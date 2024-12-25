@@ -1,3 +1,4 @@
+
 # primer_paso_tesseract
 Este repositorio montare un mini proyecto que aun sigo pensando en como crearlo, pero esto es un breve ejemplo, explicare sobre como instalar el tesseract en el equipo para que funcione correctamente ya que esta implementado con python.
 
@@ -17,3 +18,4 @@ teniendo el archivo deberan ir a la ruta donde se instalo el Tesseract y deben d
 <h1>CAPTURAS HACIENDO LA PRUEBA</h1>
 
 ![image](https://github.com/user-attachments/assets/c4f28c71-9659-4f9e-8839-9efc68adb894)
+![Tesseract](https://github.com/user-attachments/assets/4f606b0a-c316-4e24-ac83-f32eddf9c967)
